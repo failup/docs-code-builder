@@ -8,6 +8,7 @@ klkkl //TBD if this is needed for changing singular to plural
 :example: example
 aaaaa
 cualq
+lpmpmpmp
 //
 //title of this page
 include::partial$mule-components/{version}/component-{component-filename}.adoc[tag=component-title]
