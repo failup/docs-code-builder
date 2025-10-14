@@ -36,13 +36,14 @@ NOTE: MuleSoft Dev Agent always uses the permissions of the Anypoint Platform us
 
 == Unified Dev Agent Experience
 
-MuleSoft Dev Agent provides a single panel where you can develop integrations and API specifications. Unlike earlier versions of generative features, Dev Agent does not insert output through a separate panel. Instead, it writes directly into your project files when you grant edit permissions.  
+MuleSoft Dev Agent provides a single panel where you can develop integrations and API specifications. Unlike earlier versions of generative features, Dev Agent does not insert output through a separate panel. Instead, it writes directly into your project files when you grant edit permissions.
 
-Depending on your settings, Dev Agent can:  
-* Request approval before writing to your files, or  
-* Write automatically if *Auto-approve* is enabled in the Dev Agent settings.  
+Depending on your settings, Dev Agent can:
 
-For details on configuring permissions and server connections, see xref:troubleshooting.adoc[Troubleshooting Dev Agent].
+* Request approval before writing to your files.
+* Write automatically if *Auto-approve* is enabled in the Dev Agent settings.
+
+For details on configuring permissions and server connections, see xref:troubleshoot-generative-ai.adoc[Troubleshooting Dev Agent].
 
 == Provide Additional Context
 
